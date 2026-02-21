@@ -15,7 +15,6 @@
 <!-- AI Status Panel -->
 
 ```yaml
-SYSTEM: JARVIS AI PROFILE
 NAME: Ravi Gohel
 ROLE: Artificial Intelligence Engineer
 STATUS: Online
