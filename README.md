@@ -1,78 +1,73 @@
-<!-- ================= JARVIS HUD PROFILE ================= -->
+<!-- ================= FULL ANIMATED AI HERO PROFILE ================= -->
 
-<!-- JARVIS CORE -->
+<!-- FULL WIDTH ANIMATED NAME -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=0:000000,50:0f2027,100:00F7FF&text=JARVIS%20HUD%20ACTIVE&fontSize=55&fontColor=00F7FF&animation=blinking"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:000000,25:0f2027,50:203a43,75:00F7FF,100:00FFFF&text=RAVI%20GOHEL&fontSize=90&fontAlignY=40&fontColor=00F7FF&animation=twinkling"/>
 </p>
 
-<!-- AI HUD Scanner -->
+<!-- GLOWING NAME EFFECT -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif" width="250"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2000&color=00F7FF&center=true&vCenter=true&width=1000&height=100&lines=ARTIFICIAL+INTELLIGENCE+ENGINEER;FULL+STACK+DEVELOPER;HACKATHON+BUILDER;FUTURE+TECH+FOUNDER"/>
 </p>
 
-<!-- AI Scan Animation -->
+<!-- ANIMATED AI CORE -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2000&color=00F7FF&center=true&vCenter=true&width=900&lines=Scanning+User...;Identity:+Ravi+Gohel;AI+Engineer+Status:+ACTIVE;Systems:+ONLINE;JARVIS+Control:+ENABLED"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
 </p>
 
 ---
 
-# 🤖 AI IDENTITY MATRIX
+# ⚡ AI SYSTEM INITIALIZED
 
-```yaml id="o3lqg5"
-AI_CORE: JARVIS v3.0
-USER: Ravi Gohel
+```yaml id="cndrq5"
+NAME: Ravi Gohel
 ROLE: Artificial Intelligence Engineer
 STATUS: ACTIVE
-SECURITY_LEVEL: MAXIMUM
-LOCATION: India
+POWER_LEVEL: MAXIMUM
 
-CAPABILITIES:
+SPECIALIZATION:
+ - Artificial Intelligence
  - Machine Learning
- - AI Systems
  - Full Stack Development
- - Hackathon Engineering
+ - Automation Systems
 
 MISSION:
- - Build Future AI Systems
- - Create Startup
- - Become Elite Engineer
+ - Build Advanced AI Systems
+ - Win Global Hackathons
+ - Create AI Startup
 ```
 
 ---
 
-# ⚡ TECH HUD
+# 🧠 TECH STACK
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,mysql,git,github,linux,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,mysql,git,github,linux,vscode&perline=6"/>
 </p>
 
 ---
 
-# 📊 SYSTEM ANALYTICS
+# 📊 LIVE AI ANALYTICS
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravigohel142996&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravigohel142996&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ravigohel142996&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravigohel142996&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
 </p>
 
 ---
 
-# 🔥 POWER LEVEL MONITOR
+# 🔥 CONTRIBUTION POWER
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ravigohel142996&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ravigohel142996&theme=tokyonight&hide_border=true&border_radius=20"/>
 </p>
 
 ---
 
-# 📡 NEURAL ACTIVITY GRAPH
+# 📈 NEURAL NETWORK ACTIVITY
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravigohel142996&theme=tokyo-night&hide_border=true&area=true"/>
@@ -88,50 +83,36 @@ MISSION:
 
 ---
 
-# 🏆 ACHIEVEMENT MODULE
+# 🏆 ACHIEVEMENT MATRIX
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ravigohel142996&theme=tokyonight&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ravigohel142996&theme=tokyonight&no-frame=true&column=7"/>
 </p>
 
 ---
 
-# 🌐 NETWORK INTERFACE
+# 🌐 CONNECT WITH AI ENGINEER
 
 <p align="center">
-
 <a href="https://github.com/ravigohel142996">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
 
 <a href="mailto:your@email.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="60"/>
 </a>
-
 </p>
 
 ---
 
-# ⚙️ SYSTEM POWER
-
-```yaml id="1h2u5s"
-AI_ENGINE: ██████████ 100%
-INTELLIGENCE: ██████████ 100%
-FULLSTACK: ████████░░ 85%
-SECURITY: █████████░░ 90%
-LEARNING_RATE: ██████████ 100%
-```
-
----
-
-<!-- JARVIS FOOTER -->
+<!-- FINAL GLOW FOOTER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00F7FF,50:0f2027,100:000000&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00FFFF,50:0f2027,100:000000&section=footer"/>
 </p>
 
 <!-- ================= END ================= -->
