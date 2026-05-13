@@ -98,15 +98,29 @@ MISSION:
 <img src="https://skillicons.dev/icons?i=github" height="60"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="[https://linkedin.com](https://www.linkedin.com/in/ravi-gohel/)">
 <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:ravi.n.gohel811@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="60"/>
 </a>
 </p>
 
+## 🤝 Open to AI/ML Internships — Remote / India
+
+📍 Rajkot, Gujarat | 📩 ravi.n.gohel811@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/ravi-gohel)
+
+> Currently seeking AI/ML, Python, or GenAI internship/Job opportunities.
+> I build production-ready AI systems, not just demos.
+
+### 🚀 Featured projects
+| Project | Tech | Link |
+|---|---|---|
+| NeuroCore AI — Decision Engine | Python, ML, Streamlit | [Repo](https://github.com/ravigohel142996/NeuroCore-AI-The-Autonomous-Decision-Engine-for-Businesses) |
+| Orbital Sentinel — Earth Risk AI | Python, Gemini 2.0, Streamlit | [Repo](https://github.com/ravigohel142996/Orbital-Sentinel-Earth-AI) |
+| LoanGuardian AI — Risk Engine | Python, Streamlit | [Repo](https://github.com/ravigohel142996/LoanGuardian-AI) |
+| Relief Mate AI — Disaster AI | Python | [Repo](https://github.com/ravigohel142996/Relief_mate_ai) |
 ---
 
 <!-- FINAL GLOW FOOTER -->
