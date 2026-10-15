@@ -1,1 +1,6 @@
-Pillow==12.3.0
+# Only needed to re-render the artwork; the metrics workflow and tests use the standard library.
+Pillow==12.3.0       # GIF/PNG output (render_hero.py, inspect_art.py, hero tests)
+numpy==2.4.6         # ray-marched 3D layer (render_hero.py, hero tests)
+resvg-py==0.5.0      # SVG rasterisation (render_hero.py, inspect_art.py)
+fonttools==4.67.0    # glyph extraction (build_glyphs.py)
+uharfbuzz==0.56.3    # GPOS kerning (build_glyphs.py)
