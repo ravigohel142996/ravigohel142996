@@ -1,132 +1,161 @@
-<!-- ================= FULL ANIMATED AI HERO PROFILE ================= -->
+<div align="center">
 
-<!-- FULL WIDTH ANIMATED NAME -->
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-static.png">
+  <img src="./assets/hero.gif" alt="Hi, I'm Ravi Gohel. AI/ML engineer and builder. An animated 3D wireframe globe orbits beside my name. Open to opportunities in machine learning, generative AI, and full-stack development." width="1120">
+</picture>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:000000,25:0f2027,50:203a43,75:00F7FF,100:00FFFF&text=RAVI%20GOHEL&fontSize=90&fontAlignY=40&fontColor=00F7FF&animation=twinkling"/>
-</p>
+### Building intelligent systems for real-world problems.
 
-<!-- GLOWING NAME EFFECT -->
+B.Tech CSE (AI & ML) student · Python developer · Full-stack builder
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=2000&color=00F7FF&center=true&vCenter=true&width=1000&height=100&lines=ARTIFICIAL+INTELLIGENCE+ENGINEER;FULL+STACK+DEVELOPER;HACKATHON+BUILDER;FUTURE+TECH+FOUNDER"/>
-</p>
+**[Portfolio ↗](https://portfolioravigohel.netlify.app/)** &nbsp; / &nbsp; **[LinkedIn ↗](https://www.linkedin.com/in/ravi-gohel/)** &nbsp; / &nbsp; **[Email ↗](mailto:ravi.n.gohel811@gmail.com)** &nbsp; / &nbsp; **[Explore my work ↗](https://github.com/ravigohel142996?tab=repositories)**
 
-<!-- ANIMATED AI CORE -->
+[About](#01--the-builder) · [Projects](#02--selected-builds) · [Stack](#03--my-toolbox) · [GitHub](#04--building-in-public) · [Let's talk](#05--lets-build-something)
 
-<p align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
-</p>
+</div>
 
 ---
 
-# ⚡ AI SYSTEM INITIALIZED
+## 01 / The builder
 
-```yaml id="cndrq5"
-NAME: Ravi Gohel
-ROLE: Artificial Intelligence Engineer
-STATUS: ACTIVE
-POWER_LEVEL: MAXIMUM
+I'm **Ravi**, a computer science student focused on **artificial intelligence and machine learning**. I enjoy turning ambitious ideas into working projects—from decision-intelligence dashboards to computer vision and AI assistants.
 
-SPECIALIZATION:
- - Artificial Intelligence
- - Machine Learning
- - Full Stack Development
- - Automation Systems
+- **Building:** AI-powered tools, automation workflows, and useful web experiences.
+- **Exploring:** generative AI, retrieval-augmented generation, multi-agent systems, and ML monitoring.
+- **Looking for:** AI/ML, Python, or GenAI internships and job opportunities—**remote / India**.
+- **Happy to collaborate on:** hackathons, open source, and practical AI projects.
 
-MISSION:
- - Build Advanced AI Systems
- - Win Global Hackathons
- - Create AI Startup
-```
+> **My direction:** less hype, more building. Make it useful, make it understandable, and keep improving it.
 
----
+## 02 / Selected builds
 
-# 🧠 TECH STACK
+A few projects from my public repositories. Open a project for its source, setup instructions, and current status.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,mysql,git,github,linux,vscode&perline=6"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🧠 NeuroCore AI
+**Decision intelligence for business**
 
-# 📊 LIVE AI ANALYTICS
+Revenue forecasting, customer churn prediction, cost anomaly detection, and strategic decision simulation.
 
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ravigohel142996&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravigohel142996&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
-</p>
+`Python` `Machine Learning` `Streamlit`
 
----
+[Explore the repository →](https://github.com/ravigohel142996/NeuroCore-AI-The-Autonomous-Decision-Engine-for-Businesses)
 
-# 🔥 CONTRIBUTION POWER
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ravigohel142996&theme=tokyonight&hide_border=true&border_radius=20"/>
-</p>
+### 🌍 Orbital Sentinel
+**Earth-risk intelligence**
 
----
+A multi-agent project exploring global risk prediction using data streams, AI reasoning, and a voice interface.
 
-# 📈 NEURAL NETWORK ACTIVITY
+`Python` `Gemini` `Streamlit`
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravigohel142996&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
+[Explore the repository →](https://github.com/ravigohel142996/Orbital-Sentinel-Earth-AI)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-# 🐍 SECURITY DEFENSE SYSTEM
+### 👁️ GuardianVision AI
+**Computer vision for workplace safety**
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/ravigohel142996/ravigohel142996/output/github-contribution-grid-snake.svg"/>
-</p>
+Monitor CCTV streams, detect personal protective equipment violations, and alert safety teams.
 
----
+`Python` `Computer Vision` `Safety AI`
 
-# 🏆 ACHIEVEMENT MATRIX
+[Explore the repository →](https://github.com/ravigohel142996/GuardianVision-AI)
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ravigohel142996&theme=tokyonight&no-frame=true&column=7"/>
-</p>
+</td>
+<td width="50%" valign="top">
 
----
+### 🏦 LoanGuardian AI
+**Risk, compliance & loan origination**
 
-# 🌐 CONNECT WITH AI ENGINEER
+A unified dashboard bringing lending risk and compliance workflows into one place.
 
-<p align="center">
-<a href="https://github.com/ravigohel142996">
-<img src="https://skillicons.dev/icons?i=github" height="60"/>
+`Python` `Streamlit` `Risk Analytics`
+
+[Explore the repository →](https://github.com/ravigohel142996/LoanGuardian-AI)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Enterprise RAG OS
+**Retrieval-augmented generation**
+
+An exploration of RAG pipelines and Groq-powered language-model workflows.
+
+`Python` `Jupyter` `RAG` `Groq`
+
+[Explore the repository →](https://github.com/ravigohel142996/enterprise-rag-os)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛟 Relief Mate AI
+**AI for disaster assistance**
+
+A project addressing access to shelter, medical aid, and rescue information during disasters.
+
+`Python` `AI for Good` `Disaster Response`
+
+[Explore the repository →](https://github.com/ravigohel142996/Relief_mate_ai)
+
+</td>
+</tr>
+</table>
+
+**[More experiments, systems, and builds →](https://github.com/ravigohel142996?tab=repositories)**
+
+## 03 / My toolbox
+
+| Area | Tools & interests |
+| :--- | :--- |
+| **AI & data** | Python · Machine learning · Computer vision · Generative AI · RAG |
+| **Interfaces** | Streamlit · React · JavaScript · HTML · CSS |
+| **Backend & storage** | Node.js · MySQL · API integration |
+| **Developer workflow** | Git · GitHub · Linux · VS Code · Jupyter |
+| **Currently exploring** | Multi-agent orchestration · Model reliability · AI automation |
+
+## 04 / Building in public
+
+<a href="https://github.com/ravigohel142996?tab=repositories">
+  <img src="./assets/github-metrics.svg" alt="GitHub public-work snapshot: original repository count, total stars, primary languages, and leading language. The image includes its last refresh date." width="1120">
 </a>
 
-<a href="[https://linkedin.com](https://www.linkedin.com/in/ravi-gohel/)">
-<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
-</a>
+<sub>Generated from GitHub's API and refreshed weekly with GitHub Actions. Forks are excluded; languages count each repository's primary language, not lines of code. This is a dated snapshot, not a live contribution counter.</sub>
 
-<a href="mailto:ravi.n.gohel811@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="60"/>
-</a>
-</p>
+**[Browse repositories ↗](https://github.com/ravigohel142996?tab=repositories)** &nbsp; · &nbsp; **[View contribution activity ↗](https://github.com/ravigohel142996?tab=overview)**
 
-## 🤝 Open to AI/ML Internships — Remote / India
+## 05 / Let's build something
 
-📍 Rajkot, Gujarat | 📩 ravi.n.gohel811@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/ravi-gohel)
+Have an AI problem, an internship opportunity, or a hackathon idea? **I'd love to connect.**
 
-> Currently seeking AI/ML, Python, or GenAI internship/Job opportunities.
-> I build production-ready AI systems, not just demos.
+| Connect | Find me here |
+| :--- | :--- |
+| **Professional network** | [linkedin.com/in/ravi-gohel](https://www.linkedin.com/in/ravi-gohel/) |
+| **Email** | [ravi.n.gohel811@gmail.com](mailto:ravi.n.gohel811@gmail.com) |
+| **Portfolio** | [portfolioravigohel.netlify.app](https://portfolioravigohel.netlify.app/) |
+| **Code & collaboration** | [github.com/ravigohel142996](https://github.com/ravigohel142996) |
 
-### 🚀 Featured projects
-| Project | Tech | Link |
-|---|---|---|
-| NeuroCore AI — Decision Engine | Python, ML, Streamlit | [Repo](https://github.com/ravigohel142996/NeuroCore-AI-The-Autonomous-Decision-Engine-for-Businesses) |
-| Orbital Sentinel — Earth Risk AI | Python, Gemini 2.0, Streamlit | [Repo](https://github.com/ravigohel142996/Orbital-Sentinel-Earth-AI) |
-| LoanGuardian AI — Risk Engine | Python, Streamlit | [Repo](https://github.com/ravigohel142996/LoanGuardian-AI) |
-| Relief Mate AI — Disaster AI | Python | [Repo](https://github.com/ravigohel142996/Relief_mate_ai) |
 ---
 
-<!-- FINAL GLOW FOOTER -->
+<div align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00FFFF,50:0f2027,100:000000&section=footer"/>
-</p>
+**Curiosity → Code → Impact**
 
-<!-- ================= END ================= -->
+<sub>Designed with a little orbital energy. Built to keep evolving.</sub>
+
+[Back to the top ↑](#)
+
+</div>
+
+<!-- Maintenance: see .github/PROFILE_MAINTENANCE.md for asset regeneration and automation. -->
