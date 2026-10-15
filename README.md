@@ -1,161 +1,95 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-static.png">
-  <img src="./assets/hero.gif" alt="Hi, I'm Ravi Gohel. AI/ML engineer and builder. An animated 3D wireframe globe orbits beside my name. Open to opportunities in machine learning, generative AI, and full-stack development." width="1120">
+<picture id="top">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-static.png">
+  <img src="assets/hero.gif" width="100%" alt="Ravi Gohel — animated hero. Huge stacked lettering reads RAVI GOHEL. beside a ray-marched 3D torus that tumbles around a glowing crystal, with orbiting particles above a perspective grid. Masthead: RG, Engineering Intelligence. Role: AI / ML engineer. Tagline: Student by chapter. Builder by instinct. Terminal: ravi@neural-forge ~ /mission, > turn_ideas_into_intelligent_systems(). Status: open to work.">
 </picture>
 
-### Building intelligent systems for real-world problems.
+<p align="center">
+  <b>Ravi Gohel</b> · AI / ML engineer in the making · B.Tech CSE (AI &amp; ML) student<br>
+  Practical AI, computer vision, GenAI and RAG — and the full-stack products around them. <b>Open to work.</b>
+</p>
 
-B.Tech CSE (AI & ML) student · Python developer · Full-stack builder
+<p align="center">
+  <a href="#the-human"><img src="assets/art/nav-01-the-human.svg" width="160" alt="01 · The human behind the system"></a>
+  <a href="#build-archive"><img src="assets/art/nav-02-build-archive.svg" width="160" alt="02 · The build archive"></a>
+  <a href="#tools-of-the-trade"><img src="assets/art/nav-03-tools-of-the-trade.svg" width="160" alt="03 · Tools of the trade"></a>
+  <a href="#proof-of-work"><img src="assets/art/nav-04-proof-of-work.svg" width="160" alt="04 · Proof of work"></a>
+  <a href="#next-mission"><img src="assets/art/nav-05-next-mission.svg" width="160" alt="05 · Next mission: let's build"></a>
+</p>
 
-**[Portfolio ↗](https://portfolioravigohel.netlify.app/)** &nbsp; / &nbsp; **[LinkedIn ↗](https://www.linkedin.com/in/ravi-gohel/)** &nbsp; / &nbsp; **[Email ↗](mailto:ravi.n.gohel811@gmail.com)** &nbsp; / &nbsp; **[Explore my work ↗](https://github.com/ravigohel142996?tab=repositories)**
+<h2 id="the-human"><a href="#the-human"><img src="assets/art/section-01-the-human.svg" width="100%" alt="01 — The human behind the system"></a></h2>
 
-[About](#01--the-builder) · [Projects](#02--selected-builds) · [Stack](#03--my-toolbox) · [GitHub](#04--building-in-public) · [Let's talk](#05--lets-build-something)
+<p align="center">
+  <img src="assets/art/profile-panel.svg" width="100%" alt="Operator profile: Ravi Gohel, B.Tech CSE (AI and ML) student. Student by chapter, builder by instinct. Open to work: AI/ML, Python and GenAI internships and jobs, remote or in India; also hackathons and collaboration. A neural-network diagram maps interests — practical AI, machine learning, computer vision, GenAI, RAG, automation and full-stack development — into intelligent systems.">
+</p>
 
-</div>
+I'm **Ravi Gohel**, a B.Tech Computer Science & Engineering (AI & ML) student who learns by building. I like practical AI that leaves the notebook: machine learning, computer vision, GenAI and retrieval-augmented generation (RAG), automation, and the full-stack products that put them in front of people.
 
----
+- **Looking for:** AI/ML, Python and GenAI internships or jobs, remote or in India.
+- **Up for:** hackathons, side projects and collaboration.
 
-## 01 / The builder
+<h2 id="build-archive"><a href="#build-archive"><img src="assets/art/section-02-build-archive.svg" width="100%" alt="02 — The build archive"></a></h2>
 
-I'm **Ravi**, a computer science student focused on **artificial intelligence and machine learning**. I enjoy turning ambitious ideas into working projects—from decision-intelligence dashboards to computer vision and AI assistants.
+<p align="center">
+  <a href="https://github.com/ravigohel142996/NeuroCore-AI-The-Autonomous-Decision-Engine-for-Businesses"><img src="assets/art/card-neurocore-ai.svg" width="410" alt="NeuroCore AI — business forecasting, anomalies and decision intelligence. Revenue forecasts, churn prediction, cost-anomaly detection and decision simulation in a Streamlit dashboard. Python, scikit-learn, Prophet, Streamlit. Opens the source repository."></a>
+  <a href="https://github.com/ravigohel142996/Orbital-Sentinel-Earth-AI"><img src="assets/art/card-orbital-sentinel.svg" width="410" alt="Orbital Sentinel — Earth-risk intelligence, data streams and AI reasoning. Multi-agent risk prediction for fires, floods, earthquakes and storms, with map views and voice alerts. FastAPI, Kafka, Gemini, Streamlit. Opens the source repository."></a>
+  <br>
+  <a href="https://github.com/ravigohel142996/GuardianVision-AI"><img src="assets/art/card-guardianvision-ai.svg" width="410" alt="GuardianVision AI — computer vision for PPE violations and workplace safety. Watches CCTV streams, detects missing PPE with a YOLO11 model, tracks workers and alerts safety teams. YOLO11, OpenCV, FastAPI, Docker. Opens the source repository."></a>
+  <a href="https://github.com/ravigohel142996/LoanGuardian-AI"><img src="assets/art/card-loanguardian-ai.svg" width="410" alt="LoanGuardian AI — lending risk, compliance and origination. Credit-risk scoring, KYC/AML compliance checks and loan monitoring in one Streamlit workflow. Python, Streamlit, risk scoring, KYC/AML. Opens the source repository."></a>
+  <br>
+  <a href="https://github.com/ravigohel142996/enterprise-rag-os"><img src="assets/art/card-enterprise-rag-os.svg" width="410" alt="Enterprise RAG OS — retrieval-augmented generation and Groq workflows. Chunks and embeds documents into ChromaDB, retrieves top-k context and answers with LLaMA 3 via Groq. ChromaDB, Groq, LLaMA 3, Jupyter. Opens the source repository."></a>
+  <a href="https://github.com/ravigohel142996/Relief_mate_ai"><img src="assets/art/card-relief-mate-ai.svg" width="410" alt="Relief Mate AI — disaster-support information and assistance. Gemini-powered summaries, request triage and multilingual help, with a React and Tailwind landing page. Gemini, Streamlit, React, Tailwind. Opens the source repository."></a>
+</p>
 
-- **Building:** AI-powered tools, automation workflows, and useful web experiences.
-- **Exploring:** generative AI, retrieval-augmented generation, multi-agent systems, and ML monitoring.
-- **Looking for:** AI/ML, Python, or GenAI internships and job opportunities—**remote / India**.
-- **Happy to collaborate on:** hackathons, open source, and practical AI projects.
+<details>
+<summary><b>Plain-text project index</b> — the same six builds as a table</summary>
+<br>
 
-> **My direction:** less hype, more building. Make it useful, make it understandable, and keep improving it.
+| # | Project | Focus | Built with | Source |
+| :-- | :-- | :-- | :-- | :-- |
+| 02.1 | **NeuroCore AI** | Business forecasting, anomalies and decision intelligence | Python · scikit-learn · Prophet · Streamlit | [NeuroCore-AI](https://github.com/ravigohel142996/NeuroCore-AI-The-Autonomous-Decision-Engine-for-Businesses) |
+| 02.2 | **Orbital Sentinel** | Earth-risk intelligence, data streams and AI reasoning | FastAPI · Kafka · Gemini · Streamlit | [Orbital-Sentinel-Earth-AI](https://github.com/ravigohel142996/Orbital-Sentinel-Earth-AI) |
+| 02.3 | **GuardianVision AI** | Computer vision for PPE violations and workplace safety | YOLO11 · OpenCV · FastAPI · Docker | [GuardianVision-AI](https://github.com/ravigohel142996/GuardianVision-AI) |
+| 02.4 | **LoanGuardian AI** | Lending risk, compliance and origination | Python · Streamlit · risk scoring · KYC/AML | [LoanGuardian-AI](https://github.com/ravigohel142996/LoanGuardian-AI) |
+| 02.5 | **Enterprise RAG OS** | Retrieval-augmented generation and Groq workflows | ChromaDB · Groq · LLaMA 3 · Jupyter | [enterprise-rag-os](https://github.com/ravigohel142996/enterprise-rag-os) |
+| 02.6 | **Relief Mate AI** | Disaster-support information and assistance | Gemini · Streamlit · React · Tailwind | [Relief_mate_ai](https://github.com/ravigohel142996/Relief_mate_ai) |
 
-## 02 / Selected builds
+</details>
 
-A few projects from my public repositories. Open a project for its source, setup instructions, and current status.
+<h2 id="tools-of-the-trade"><a href="#tools-of-the-trade"><img src="assets/art/section-03-tools-of-the-trade.svg" width="100%" alt="03 — Tools of the trade"></a></h2>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="assets/art/toolbox.svg" width="100%" alt="Toolkit — what I build with: Python, JavaScript, HTML and CSS, React, Node.js, Streamlit, MySQL, Jupyter, Git and GitHub, Linux, VS Code. Exploring — frontiers I am learning, not claiming to have mastered: machine learning, computer vision, GenAI and RAG.">
+</p>
 
-### 🧠 NeuroCore AI
-**Decision intelligence for business**
+**Build with:** Python · JavaScript · HTML/CSS · React · Node.js · Streamlit · MySQL · Jupyter · Git/GitHub · Linux · VS Code<br>
+**Exploring:** machine learning · computer vision · GenAI / RAG
 
-Revenue forecasting, customer churn prediction, cost anomaly detection, and strategic decision simulation.
+<h2 id="proof-of-work"><a href="#proof-of-work"><img src="assets/art/section-04-proof-of-work.svg" width="100%" alt="04 — Proof of work"></a></h2>
 
-`Python` `Machine Learning` `Streamlit`
+<p align="center">
+  <img src="assets/github-metrics.svg" width="100%" alt="Dated GitHub snapshot from the public REST API: count of public original repositories (forks excluded), stars on them, primary languages by repository count, and the three most recently pushed projects. The exact numbers and the snapshot date are printed in the image.">
+</p>
 
-[Explore the repository →](https://github.com/ravigohel142996/NeuroCore-AI-The-Autonomous-Decision-Engine-for-Businesses)
+<p align="center"><sub>Generated from GitHub’s public REST API by <code>scripts/update_metrics.py</code> and refreshed weekly by a GitHub Action — a dated snapshot, not live telemetry.</sub></p>
 
-</td>
-<td width="50%" valign="top">
+<h2 id="next-mission"><a href="#next-mission"><img src="assets/art/section-05-next-mission.svg" width="100%" alt="05 — Next mission: let's build"></a></h2>
 
-### 🌍 Orbital Sentinel
-**Earth-risk intelligence**
+<p align="center">
+  <a href="https://www.linkedin.com/in/ravi-gohel/"><img src="assets/art/contact-linkedin.svg" width="272" alt="LinkedIn — linkedin.com/in/ravi-gohel. Connect."></a>
+  <a href="https://portfolioravigohel.netlify.app/"><img src="assets/art/contact-portfolio.svg" width="272" alt="Portfolio — portfolioravigohel.netlify.app. Visit."></a>
+  <a href="mailto:ravi.n.gohel811@gmail.com"><img src="assets/art/contact-email.svg" width="272" alt="Email — ravi.n.gohel811@gmail.com. Write."></a>
+</p>
 
-A multi-agent project exploring global risk prediction using data streams, AI reasoning, and a voice interface.
+<p align="center">
+  Hiring for an AI/ML, Python or GenAI role, or putting a hackathon team together? Let's talk.<br>
+  <a href="https://www.linkedin.com/in/ravi-gohel/">LinkedIn</a> · <a href="https://portfolioravigohel.netlify.app/">Portfolio</a> · <a href="mailto:ravi.n.gohel811@gmail.com">ravi.n.gohel811@gmail.com</a>
+</p>
 
-`Python` `Gemini` `Streamlit`
+<p align="center">
+  <a href="#top"><img src="assets/art/footer.svg" width="100%" alt="Stay curious. Build bold. — back to top"></a>
+</p>
 
-[Explore the repository →](https://github.com/ravigohel142996/Orbital-Sentinel-Earth-AI)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👁️ GuardianVision AI
-**Computer vision for workplace safety**
-
-Monitor CCTV streams, detect personal protective equipment violations, and alert safety teams.
-
-`Python` `Computer Vision` `Safety AI`
-
-[Explore the repository →](https://github.com/ravigohel142996/GuardianVision-AI)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏦 LoanGuardian AI
-**Risk, compliance & loan origination**
-
-A unified dashboard bringing lending risk and compliance workflows into one place.
-
-`Python` `Streamlit` `Risk Analytics`
-
-[Explore the repository →](https://github.com/ravigohel142996/LoanGuardian-AI)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 Enterprise RAG OS
-**Retrieval-augmented generation**
-
-An exploration of RAG pipelines and Groq-powered language-model workflows.
-
-`Python` `Jupyter` `RAG` `Groq`
-
-[Explore the repository →](https://github.com/ravigohel142996/enterprise-rag-os)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛟 Relief Mate AI
-**AI for disaster assistance**
-
-A project addressing access to shelter, medical aid, and rescue information during disasters.
-
-`Python` `AI for Good` `Disaster Response`
-
-[Explore the repository →](https://github.com/ravigohel142996/Relief_mate_ai)
-
-</td>
-</tr>
-</table>
-
-**[More experiments, systems, and builds →](https://github.com/ravigohel142996?tab=repositories)**
-
-## 03 / My toolbox
-
-| Area | Tools & interests |
-| :--- | :--- |
-| **AI & data** | Python · Machine learning · Computer vision · Generative AI · RAG |
-| **Interfaces** | Streamlit · React · JavaScript · HTML · CSS |
-| **Backend & storage** | Node.js · MySQL · API integration |
-| **Developer workflow** | Git · GitHub · Linux · VS Code · Jupyter |
-| **Currently exploring** | Multi-agent orchestration · Model reliability · AI automation |
-
-## 04 / Building in public
-
-<a href="https://github.com/ravigohel142996?tab=repositories">
-  <img src="./assets/github-metrics.svg" alt="GitHub public-work snapshot: original repository count, total stars, primary languages, and leading language. The image includes its last refresh date." width="1120">
-</a>
-
-<sub>Generated from GitHub's API and refreshed weekly with GitHub Actions. Forks are excluded; languages count each repository's primary language, not lines of code. This is a dated snapshot, not a live contribution counter.</sub>
-
-**[Browse repositories ↗](https://github.com/ravigohel142996?tab=repositories)** &nbsp; · &nbsp; **[View contribution activity ↗](https://github.com/ravigohel142996?tab=overview)**
-
-## 05 / Let's build something
-
-Have an AI problem, an internship opportunity, or a hackathon idea? **I'd love to connect.**
-
-| Connect | Find me here |
-| :--- | :--- |
-| **Professional network** | [linkedin.com/in/ravi-gohel](https://www.linkedin.com/in/ravi-gohel/) |
-| **Email** | [ravi.n.gohel811@gmail.com](mailto:ravi.n.gohel811@gmail.com) |
-| **Portfolio** | [portfolioravigohel.netlify.app](https://portfolioravigohel.netlify.app/) |
-| **Code & collaboration** | [github.com/ravigohel142996](https://github.com/ravigohel142996) |
-
----
-
-<div align="center">
-
-**Curiosity → Code → Impact**
-
-<sub>Designed with a little orbital energy. Built to keep evolving.</sub>
-
-[Back to the top ↑](#)
-
-</div>
-
-<!-- Maintenance: see .github/PROFILE_MAINTENANCE.md for asset regeneration and automation. -->
+<p align="center">
+  <a href="#top">↑ Back to top</a><br>
+  <sub>Every image here is rendered from code in <code>scripts/</code>. Type: Space Grotesk and Space Mono, SIL Open Font License 1.1.</sub>
+</p>

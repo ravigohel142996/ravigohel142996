@@ -7,6 +7,9 @@ on:
   push:
     paths:
       - 'scripts/update_metrics.py'
+      - 'scripts/forge_svg.py'
+      - 'scripts/forge_type.py'
+      - 'assets/fonts/forge-glyphs.json'
       - '.github/workflows/refresh-profile.yml'
 
 # A single job needs write access to save the generated image in this repository.
